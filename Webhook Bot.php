@@ -2,7 +2,7 @@
 
 ob_start();
 
-$API_KEY = '1099021216:AAE-49eGigTt0vKTA4tLBmCCNw6lh6Nk-Kg';
+$API_KEY = '1352792638:AAEaKe7z1O1Qw1paQGuBZMobeUqgLJQKJLM';
 ##-----ABRORIY ‏ ⌯┆-‏𖤍-----##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
